@@ -118,7 +118,7 @@ const Index = () => {
               <CardTitle className="text-white">Регион</CardTitle>
             </CardHeader>
             <CardContent className="text-center">
-              <p className="text-xl text-gray-300">Санкт-Петербург #15 Intel</p>
+              <p className="text-xl text-gray-300">Москва #71 AMD</p>
             </CardContent>
           </Card>
 
